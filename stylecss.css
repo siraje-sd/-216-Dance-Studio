@@ -1,0 +1,10 @@
+.red{
+    color: rgb(174, 81, 250);
+}
+body{font-style: italic;
+background-color: beige;}
+.main-menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    justify-content: center;
+    
+}
